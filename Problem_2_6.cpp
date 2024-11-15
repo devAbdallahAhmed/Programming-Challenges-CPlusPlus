@@ -3,7 +3,6 @@
 
 
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 void Read_LengthWidth(float &A , float &B)
