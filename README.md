@@ -24,8 +24,6 @@ Welcome to the **Programming Challenges in C++
    - Problem analysis
    - Logical approach explanation
    - Code implementation
-   - Time and space complexity analysis
-
 ---
 
 
